@@ -5,5 +5,10 @@
  💃🏻 likely dancing in oakland, ca <br/>
  🌱 a proud istj logistician <br/>
  💬 pronouns: she/her/hers <br/>
- 🎧 now playing... <br/>
- [![Spotify](https://novatorem-azmetd573-yunchipang.vercel.app/api/spotify)](https://open.spotify.com/user/21eqkmzrl4ff6dxn2rqvcfaui)
+ 🎧 vibing to...
+ 
+ <br/>
+ 
+<a href="https://open.spotify.com/user/21eqkmzrl4ff6dxn2rqvcfaui">
+  <img src="https://novatorem-azmetd573-yunchipang.vercel.app/api/spotify" height="100" alt="Spotify">
+</a>
