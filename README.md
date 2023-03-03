@@ -1,8 +1,8 @@
 # 🦖 helluuu 🦖 
 
  👩🏻‍💻 ms in computer science @northeastern <br>
- ⭐️ based in san francisco bay area <br>
- 💃🏻 likely dancing in oakland, ca <br>
+ ⭐️ based in sf bay area <br>
+ 💃🏻 likely be dancing in oakland, ca <br>
  🌱 a proud istj logistician <br>
  💬 pronouns: she/her/hers <br>
  🎧 vibing to... <br>
