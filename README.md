@@ -2,7 +2,7 @@
 
  👩🏻‍🎓 MS in Computer Science at Northeastern University <br>
  🌱 based in SF bay area <br>
- 🌏 sometimes a dancer, sometimes a travel blogger <br>
+ 🌏 dancer @groovegenerationco, author @triztravel <br>
  👏🏼 a proud ISTJ Logistician <br>
  💃🏻 pronouns: she/her/hers <br>
  🎧 vibing to... <br>
