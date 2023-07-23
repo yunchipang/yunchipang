@@ -1,9 +1,9 @@
 ## hi there!
 
- 👩🏻‍🎓 MS in Computer Science at Northeastern University <br>
- 🌱 based in SF bay area <br>
+ 👩🏻‍🎓 ms in computer science at northeastern university <br>
+ 🌱 a full-stack software engineer based in sf bay area <br>
  🌏 dancer @groovegenerationco, author @triztravel <br>
- 👏🏼 a proud ISTJ Logistician <br>
+ 👴🏻 a proud istj logistician <br>
  💃🏻 pronouns: she/her/hers <br>
  🎧 vibing to... <br>
 
@@ -11,7 +11,7 @@
  <img src="https://novatorem-azmetd573-yunchipang.vercel.app/api/spotify/" alt="Spotify" height="100px">
 </a>
 
-![yunchi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunchipang&theme=dark&layout=compact)
+<!-- ![yunchi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunchipang&theme=dark&layout=compact) -->
 
 connect with me 👉🏼
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunchipang)
