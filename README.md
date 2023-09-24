@@ -1,4 +1,4 @@
-## hi there!
+hi there!
 
  👩🏻‍🎓 ms in computer science at northeastern university <br>
  🌱 a full-stack software engineer based in sf bay area <br>
