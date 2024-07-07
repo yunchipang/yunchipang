@@ -2,7 +2,6 @@ hi there!
 
  👩🏻‍🎓 ms in computer science at northeastern university <br>
  🌱 a full-stack software engineer based in sf bay area <br>
- 🌏 dancer @groovegeneration, founder & writer @triztravel <br>
  👴🏻 a proud istj logistician <br>
  💃🏻 pronouns: she/her/hers <br>
  🎧 vibing to... <br>
